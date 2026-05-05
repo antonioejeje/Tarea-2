@@ -16,3 +16,11 @@ if ((2*dis)>800)
 pf=0.23*dis - (0.23*dis)*0.3;
 }
 else 
+{ 
+pf = 0.23 * dis;
+  }
+}
+printf ("el precio final del ticket es %pf$";
+  return 0;
+}
+  
